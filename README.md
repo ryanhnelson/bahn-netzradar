@@ -1,4 +1,4 @@
-# bahn_netzradar
+# bahn-netzradar
 For playing with the Deutsche Bahn Netzradar dataset.
 
 The data is from the September 2015 dataset provided on [Deutsche Bahn's Open Data Portal: Netzradar dataset](http://data.deutschebahn.com/datasets/netzradar/).
